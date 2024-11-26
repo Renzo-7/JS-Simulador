@@ -1,0 +1,37 @@
+Este proyecto es una aplicación interactiva que permite gestionar las notas de alumnos, calcular su promedio y clasificarlos en
+base a su rendimiento. Además, utiliza tecnologías modernas como JavaScript, LocalStorage, y Fetch API para proporcionar una
+experiencia funcional e intuitiva.
+
+🚀 Funcionalidades
+
+Agregar alumnos:
+Permite registrar el nombre, tres notas, y automáticamente calcula el promedio y la clasificación del alumno.
+Evita duplicados verificando el nombre del alumno antes de registrarlo.
+
+Clasificación por promedio:
+Excelente: Promedio >= 9
+Muy Bien: Promedio >= 8
+Aprobado: Promedio >= 6
+Desaprobado: Promedio < 6
+
+Eliminar alumnos:
+Se puede eliminar un alumno de la lista con confirmación previa.
+
+Promedio general de la clase:
+Muestra en tiempo real el promedio de todos los alumnos registrados.
+
+Lista de graduados:
+Carga dinámicamente una lista de graduados desde un archivo JSON externo.
+
+Estilo y feedback interactivo:
+Mensajes de éxito, error y confirmación proporcionados por SweetAlert2.
+Listas y botones estilizados utilizando Bootstrap.
+
+🛠️ Tecnologías utilizadas:
+
+HTML5: Estructura de la página.
+CSS3 + Bootstrap: Diseño y estilos.
+JavaScript: Lógica y funcionalidad.
+LocalStorage: Almacenamiento persistente de datos en el navegador.
+Fetch API: Carga de datos externos (lista de graduados).
+SweetAlert2: Notificaciones y confirmaciones interactivas.

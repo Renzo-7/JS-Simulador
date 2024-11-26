@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Lionel Andrés Messi Cuccittini",
+    "promedio": 10,
+    "clasificacion": "Excelente"
+  },
+  {
+    "id": 2,
+    "nombre": "Damián Emiliano Martínez Romero",
+    "promedio": 9.5,
+    "clasificacion": "Excelente"
+  },
+  {
+    "id": 3,
+    "nombre": "Julián Álvarez",
+    "promedio": 8.9,
+    "clasificacion": "Muy bien"
+  }
+]
